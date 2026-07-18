@@ -3,9 +3,7 @@
 // Birthday story & typewriter
 // ==========================================================
 
-const letterText = `Happy Birthday ❤️
-
-Happy Birthday! 🎉💙
+const letterText = `appy Birthday! 🎉💙
 
 Wishing you a day filled with happiness, laughter, and beautiful moments that you'll always remember.
 
