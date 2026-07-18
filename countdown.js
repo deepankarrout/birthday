@@ -1,6 +1,6 @@
 // countdown.js
-// const targetDate = new Date(new Date().getFullYear(),6,19,0,0,0).getTime();
-const targetDate = Date.now() + (10 * 1000); // 10 seconds from now
+const targetDate = new Date(new Date().getFullYear(),6,19,0,0,0).getTime();
+//const targetDate = Date.now() + (10 * 1000); // 10 seconds from now
 
 const countdownPage=document.getElementById("countdownPage");
 const birthdayPage=document.getElementById("birthdayPage");
